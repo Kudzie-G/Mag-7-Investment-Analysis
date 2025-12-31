@@ -45,7 +45,8 @@ To evaluate the performance, risk, and contribution of the **Magnificent 7 stock
   [https://www.investopedia.com/magnificent-seven-stocks-8402262](https://www.investopedia.com/magnificent-seven-stocks-8402262)  
   → Background, definitions, and context for the Magnificent 7 companies.
 
-  
+#  DATA PRESENTATION
+  https://public.tableau.com/views/Mag7InvestmentAnalysis/MAg7Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 #  RESULT SUMMARY
 ##  Key Insights
 
